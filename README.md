@@ -1,0 +1,3 @@
+# Webserver written in Rust
+
+This is an attempt to write webserver in Rust based on the instructions in [Rust book](https://doc.rust-lang.org/book/second-edition/ch20-00-final-project-a-web-server.html). The goal is to learn how to work with TCP streams and make the web server responsive by making it multithreaded. The code here is purely **educational** and should not be used in production environment.
